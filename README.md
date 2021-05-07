@@ -1,9 +1,11 @@
 # nyc_collision_data_analysis
 
-Steps :
-1. Data Cleaning.
+Steps : 
+Data Cleaning.
 Please find URL for Cleaned data at : 
 
-Collision :https://drive.google.com/file/d/1B9yePV98nKtKjM54HRzlIcpopw2fzRap/view?usp=sharing
+Collision: https://drive.google.com/drive/u/1/folders/1_R9AtE3zEN8g0jquv4LZ63phOAKM_sTz
 
-Person : https://drive.google.com/file/d/1gVI_S9ailgIfauqzHPiye-IecyaoL8GS/view?usp=sharing
+Person: https://drive.google.com/file/d/1gVI_S9ailgIfauqzHPiye-IecyaoL8GS/view?usp=sharing
+
+Vehicle: https://drive.google.com/file/d/1yREqhvPRx3GzcWz3o53tZkKnZV3UuXO8/view?usp=sharing
